@@ -1,0 +1,1 @@
+If you would like to change the project, change the layout of splash screen
